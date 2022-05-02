@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 📚Education: AS Information Systems Technology, BS Software Development, MS Computer Science, PhD Cyber Operations (Student)
 - Languages: C/C++, Go, Java, Python, Rust
+- Main Tinkering: url("https://github.com/Xenios91/EchoBot")
