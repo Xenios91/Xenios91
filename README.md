@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚Education: AS Information Systems Technolgoy, BS Software Development, MS Computer Science, PhD Cyber Operations (Student)
+- Languages: C/C++, Go, Java, Python, Rust
