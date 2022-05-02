@@ -27,4 +27,9 @@ Languages:
 - Java
 - Python
 - Rust
-Main Tinkering: [EchoBot](https://github.com/Xenios91/EchoBot)
+
+Main Tinkering:
+- [EchoBot](https://github.com/Xenios91/EchoBot)
+- [ByteChomp](https://github.com/Xenios91/Byte-Chomp)
+- [Glyph](https://github.com/Xenios91/Glyph)
+- [Ghidra-Script-Runner](https://github.com/Xenios91/Ghidra-Script-Runner)
