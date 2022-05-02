@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚Education: AS Information Systems Technology, BS Software Development, MS Computer Science, PhD Cyber Operations (Student)
-- Languages: C/C++, Go, Java, Python, Rust
-- Main Tinkering: [EchoBot](https://github.com/Xenios91/EchoBot)
+📚Education: 
+- AS Information Systems Technology
+- BS Software Development
+- MS Computer Science
+- PhD Cyber Operations (Student)
+Languages: 
+- C/C++
+- Go
+- Java
+- Python
+- Rust
+Main Tinkering: [EchoBot](https://github.com/Xenios91/EchoBot)
