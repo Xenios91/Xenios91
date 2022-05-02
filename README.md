@@ -34,9 +34,3 @@ Areas of Interest:
 - Security
 - Network Protocols
 - Wireless
-
-Main Tinkering:
-- [EchoBot](https://github.com/Xenios91/EchoBot)
-- [ByteChomp](https://github.com/Xenios91/Byte-Chomp)
-- [Glyph](https://github.com/Xenios91/Glyph)
-- [Ghidra-Script-Runner](https://github.com/Xenios91/Ghidra-Script-Runner)
