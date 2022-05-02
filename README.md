@@ -28,6 +28,13 @@ Languages:
 - Python
 - Rust
 
+Areas of Interest:
+- Software Development
+- Reverse Engineering
+- Security
+- Network Protocols
+- Wireless
+
 Main Tinkering:
 - [EchoBot](https://github.com/Xenios91/EchoBot)
 - [ByteChomp](https://github.com/Xenios91/Byte-Chomp)
