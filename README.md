@@ -31,6 +31,4 @@ Languages:
 Areas of Interest:
 - Software Development
 - Reverse Engineering
-- Security
-- Network Protocols
-- Wireless
+- Machine Learning & Deep Learning
