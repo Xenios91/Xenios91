@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - AS Information Systems Technology
 - BS Software Development
 - MS Computer Science
-- PhD Cyber Operations (Student)
+- PhD Cyber Operations (Candidate)
 
 Languages: 
 - C/C++
