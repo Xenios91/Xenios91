@@ -30,5 +30,5 @@ Languages:
 
 Areas of Interest:
 - Software Development
-- Reverse Engineering
+- Reverse Engineering - Static and Dynamic Analysis
 - Machine Learning & Deep Learning
